@@ -1,0 +1,1 @@
+{"version":3,"file":"broker.module.js","sourceRoot":"","sources":["../../src/broker/broker.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAgD;AAChD,qCAAkC;AAO3B,IAAM,YAAY,GAAlB,MAAM,YAAY;CAAG,CAAA;AAAf,oCAAY;uBAAZ,YAAY;IALxB,IAAA,eAAM,GAAE;IACR,IAAA,eAAM,EAAC;QACN,SAAS,EAAE,CAAC,eAAM,CAAC;QACnB,OAAO,EAAE,CAAC,eAAM,CAAC;KAClB,CAAC;GACW,YAAY,CAAG"}
